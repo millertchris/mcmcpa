@@ -10,6 +10,8 @@ Live site: https://mcmcpa.com/
 
 ## Contributors
 
-Jennifer Hail - https://github.com/jenniferhail
+* Jennifer Hail - https://github.com/jenniferhail
 
-Sara Pitt
+* Sara Pitt
+
+* Jan Michael Wallace
